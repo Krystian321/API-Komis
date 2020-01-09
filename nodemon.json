@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_PASS": "komis",
+        "JWT_KEY": "secret"
+    }
+}
